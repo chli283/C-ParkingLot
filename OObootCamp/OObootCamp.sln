@@ -10,6 +10,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOObootCamp", "TestOOboo
 		{2D1466B6-080A-4F4C-87FD-3B16CB89DA00} = {2D1466B6-080A-4F4C-87FD-3B16CB89DA00}
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{0B66A9C8-D6B3-4021-A8F1-B2DE0E50DBE8}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

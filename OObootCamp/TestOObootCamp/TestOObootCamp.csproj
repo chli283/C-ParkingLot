@@ -57,6 +57,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TestParkingBoy.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="TestParkingLot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

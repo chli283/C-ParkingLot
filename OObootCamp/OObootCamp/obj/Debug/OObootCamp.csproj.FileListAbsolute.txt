@@ -12,3 +12,17 @@ C:\Chli\OObootCamp\OObootCamp\OObootCamp\bin\Debug\xunit.assert.pdb
 C:\Chli\OObootCamp\OObootCamp\OObootCamp\bin\Debug\xunit.assert.xml
 C:\Chli\OObootCamp\OObootCamp\OObootCamp\bin\Debug\xunit.core.pdb
 C:\Chli\OObootCamp\OObootCamp\OObootCamp\bin\Debug\xunit.core.xml
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\bin\Debug\xunit.execution.desktop.dll
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\bin\Debug\OObootCamp.dll
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\bin\Debug\OObootCamp.pdb
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\bin\Debug\xunit.abstractions.dll
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\bin\Debug\xunit.assert.dll
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\bin\Debug\xunit.core.dll
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\bin\Debug\xunit.abstractions.xml
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\bin\Debug\xunit.assert.pdb
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\bin\Debug\xunit.assert.xml
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\bin\Debug\xunit.core.pdb
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\bin\Debug\xunit.core.xml
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\obj\Debug\OObootCamp.dll
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\obj\Debug\OObootCamp.pdb
+C:\Chli\C-ParkingLot\OObootCamp\OObootCamp\obj\Debug\OObootCamp.csprojResolveAssemblyReference.cache
