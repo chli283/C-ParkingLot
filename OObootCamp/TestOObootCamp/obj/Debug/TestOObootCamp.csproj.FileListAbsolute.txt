@@ -1,0 +1,16 @@
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\obj\Debug\TestOObootCamp.csprojResolveAssemblyReference.cache
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\bin\Debug\xunit.execution.desktop.dll
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\bin\Debug\TestOObootCamp.dll
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\bin\Debug\TestOObootCamp.pdb
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\bin\Debug\OObootCamp.dll
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\bin\Debug\xunit.abstractions.dll
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\bin\Debug\xunit.assert.dll
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\bin\Debug\xunit.core.dll
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\bin\Debug\OObootCamp.pdb
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\bin\Debug\xunit.abstractions.xml
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\bin\Debug\xunit.assert.pdb
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\bin\Debug\xunit.assert.xml
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\bin\Debug\xunit.core.pdb
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\bin\Debug\xunit.core.xml
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\obj\Debug\TestOObootCamp.dll
+C:\Chli\OObootCamp\OObootCamp\TestOObootCamp\obj\Debug\TestOObootCamp.pdb
